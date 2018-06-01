@@ -1,6 +1,6 @@
 # FIXME Lesson title
 
-FIXME
+My Lesson
 
 ## Contributing
 
