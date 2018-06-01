@@ -1,4 +1,4 @@
-# FIXME Lesson title
+# Software Carpentry Lesson title
 
 My Lesson
 
